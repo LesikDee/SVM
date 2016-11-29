@@ -2,9 +2,7 @@ package dema.AlgebraModule;
 import dema.GeometryModule.*;
 
 
-/**
- * Created by Администратор on 22.11.2016.
- */
+
 public class LagrangSolution {
     public int kol;
     public int kolNegativeRoot = 0;
